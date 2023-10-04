@@ -1,0 +1,35 @@
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\appsettings.json
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Harjoitus 6 API.exe
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Harjoitus 6 API.deps.json
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Harjoitus 6 API.runtimeconfig.json
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Harjoitus 6 API.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\ref\Harjoitus 6 API.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Harjoitus 6 API.pdb
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.csproj.AssemblyReference.cache
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.AssemblyInfoInputs.cache
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.AssemblyInfo.cs
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.csproj.CoreCompileInputs.cache
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\scopedcss\bundle\Harjoitus 6 API.styles.css
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.csproj.CopyComplete
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\ref\Harjoitus 6 API.dll
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.pdb
+C:\Users\s2101018\OneDrive - Business College Helsinki\Työpöytä\APIKutsut\Harjoitus 6 API\obj\Debug\net6.0\Harjoitus 6 API.genruntimeconfig.cache
